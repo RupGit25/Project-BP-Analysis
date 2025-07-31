@@ -1,6 +1,6 @@
 # Project-BP Analysis
 
-This project showcases a simple BP (Blood Pressure) monitoring concept through images and short demo videos.
+This repository contains a sample dataset of images and short demo videos related to blood pressure (BP) monitoring.
 
 ## 📷 Images
 
